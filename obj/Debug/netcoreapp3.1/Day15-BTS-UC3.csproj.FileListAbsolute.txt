@@ -1,0 +1,14 @@
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.exe
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.deps.json
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.runtimeconfig.json
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.runtimeconfig.dev.json
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.dll
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\bin\Debug\netcoreapp3.1\Day15-BTS-UC3.pdb
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.csproj.AssemblyReference.cache
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.AssemblyInfoInputs.cache
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.AssemblyInfo.cs
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.csproj.CoreCompileInputs.cache
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.dll
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.pdb
+D:\visuals\Day15hashtable programs\Day15hashtable programs\Day15-BTS-UC3\Day15-BTS-UC3\obj\Debug\netcoreapp3.1\Day15-BTS-UC3.genruntimeconfig.cache
